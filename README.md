@@ -1,5 +1,6 @@
 # NEATandCNN
 NEAT and CNN Implementation in C++
+
 CNN
  ```bash
   InputFile in;
